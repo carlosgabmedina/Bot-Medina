@@ -1,0 +1,13 @@
+{
+  "name": "bot-medina",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp modular usando open-wa/wa-automate",
+  "main": "bot-openwa.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot-openwa.js"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "^5.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules/
+auth_info/
+session.data.json
+open-wa-session.*
+_IGNORE_session/

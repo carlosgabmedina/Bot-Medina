@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "auth_info": true,
+    "session.data.json": true,
+    "open-wa-session.*": true,
+    "_IGNORE_session": true
+  }
+}
